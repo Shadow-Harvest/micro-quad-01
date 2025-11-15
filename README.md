@@ -55,11 +55,10 @@ Protocol: CRSF
 ```
 
 ### TX Module WiFi Access (No SD Card Method)
-1. Remove ES24TX Pro from radio
-2. Power externally (USB or 2S battery)
-3. Wait 60 seconds → LED shows green breathing pattern
-4. Connect to WiFi: **ExpressLRS TX** / `expresslrs`
-5. Browser: **http://10.0.0.1**
+1. Turn on radio with module installed
+2. Wait 60 seconds → LED shows green breathing pattern
+3. Connect to WiFi: **ExpressLRS TX** / `expresslrs`
+4. Browser: **http://10.0.0.1**
 
 **Recommended Settings:**
 - Packet Rate: 250Hz (must match RX!)
