@@ -203,5 +203,5 @@ save
 1. **SPI receiver = no serial RX needed** - Everything configured through Betaflight GUI + CLI
 2. **Packet rate mismatch = no binding** - Both TX and RX must be set to same rate_index
 3. **ATER1234 mapping required** - GUI doesn't offer it, must use CLI `map` command
-4. **WiFi access works without SD card** - External power + 60s wait activates auto WiFi mode
-5. **Always `save` in CLI** - Changes don't persist until saved
+4. **ELRS TX module WiFi access works without SD card** - External power + 60s wait activates auto WiFi mode
+5. **Always `save` in CLI in Betaflight** - Changes don't persist until saved
