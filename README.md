@@ -16,6 +16,11 @@
 ### FPV System
 - **VTX:** Zeus 350mW
 - **Camera:** CADDX ANT Nano (1200TVL, Global WDR, OSD, 1.8mm lens, 16:9)
+- **Goggles:** Orqa FPV.One Pilot
+  - Power: 2.8W typical
+  - Current draw: ~470mA @ 6V, ~230mA @ 12V (3S), ~170mA @ 16.8V (4S)
+  - DC 2.1 x 5.5mm barrel connector
+  - Input: 2S-6S LiPo (6-25VDC)
 
 ### Frame & Motors
 - **Frame:** Mobula7 V4 Moblite7
