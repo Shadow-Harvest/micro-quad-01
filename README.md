@@ -213,7 +213,13 @@ save
 
 
 
-## Flight Controller Schematics
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/86e1289e-08b4-41f9-8e61-42f252a3a94b" />
-
-
+## Schematics
+<details>
+    <summary>Flight Controller</summary>
+    <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/86e1289e-08b4-41f9-8e61-42f252a3a94b" />
+</details>
+<details>
+    <summary>VTX</summary>
+    <img width="1001" height="1001" alt="image" src="https://github.com/user-attachments/assets/f6693a56-9497-498b-8515-ac279df06bdf" />
+    <img width="1001" height="1001" alt="image" src="https://github.com/user-attachments/assets/e090a0c2-9c5d-4a91-8dc6-71bc976f9a75" />
+</details>
