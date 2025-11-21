@@ -210,3 +210,10 @@ save
 3. **ATER1234 mapping required** - GUI doesn't offer it, must use CLI `map` command
 4. **ELRS TX module WiFi access works without SD card** - External power + 60s wait activates auto WiFi mode
 5. **Always `save` in CLI in Betaflight** - Changes don't persist until saved
+
+
+
+## Flight Controller Schematics
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/86e1289e-08b4-41f9-8e61-42f252a3a94b" />
+
+
